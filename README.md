@@ -20,7 +20,7 @@ This page aims to list up-to-date variational inference algorithms and their per
 * Alice - [ALICE: Towards Understanding Adversarial Learning for Joint Distribution Matching NIPS 2017](https://arxiv.org/abs/1709.01215)
 * VAE-SVGD - [VAE Learning via Stein Variational Gradient Descent NIPS 2017](https://arxiv.org/abs/1704.05155), Stein VIWAE 82.88 
 
-
+* SIVI - [Semi-Implicit Variational Inference, ICML 2018](https://arxiv.org/abs/1805.11183)
 * KIVI - [Kernel Implicit Variational Inference, ICLR 2018](https://arxiv.org/abs/1705.10119)
 * CTF - [Continuous-Time Flows for Efficient Inference and Density Estimation ICML 2018](https://arxiv.org/abs/1709.01179)
 * CVB - [Coupled Variational Bayes via Optimization Embedding, NIPS 2018], CVB 70.1
@@ -29,3 +29,4 @@ This page aims to list up-to-date variational inference algorithms and their per
 * DDNF - [Deep Diffeomorphic Normalizing Flows](https://arxiv.org/abs/1810.03256)
 * MD-GAN - [Mixture Density Generative Adversarial Networks](https://arxiv.org/abs/1811.00152)
 * VI-ID - [Variational Inference using Implicit Distributions](https://arxiv.org/abs/1702.08235)
+* DSIVI - [Doubly Semi-Implicit Variational Inference](https://arxiv.org/abs/1810.02789)
