@@ -1,7 +1,7 @@
 # Variational-inference-on-MNIST
 A list of variational inference algorithms and their performance on MNIST.
 
-The common setting of doing variational inference is as following: given a set of data points x, we assume latent varable z and aim to recover the true poster p(z|x), which is analytically intractable.  We take an approximation distribution q(z) or q(z|x) from an tractable distribution family and let it approach the true posterior as "close" as possible. MNIST dataset is comprised of pictures features with handwritten digits, which is a common benchmark dataset. The performance of variational inference algorithms on MNIST are usually measured in terms of the maximum data-log likelihood they can achieve and the "quality" of their reconstruction pictures. 
+The common setting of doing variational inference is as following: given a set of data points x, we assume latent varable z and aim to recover the true poster p(z|x), which is analytically intractable.  We take an approximation distribution q(z) or q(z|x) from an tractable distribution family and let it approach the true posterior as "close" as possible. MNIST dataset is composed of pictures features with handwritten digits, which is a common benchmark dataset. The performance of variational inference algorithms on MNIST are usually measured in terms of the maximum data-log likelihood they can achieve and the "quality" of their reconstruction pictures. 
 
 This page aims to list up-to-date variational inference algorithms and their performance on MNIST in roughly time order. Contributions and comments are more than welcome.  "NLL" denotes "negative log likelihood".
 
