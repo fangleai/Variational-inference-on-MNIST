@@ -23,7 +23,7 @@ This page aims to list up-to-date variational inference algorithms and their per
 * SIVI - [Semi-Implicit Variational Inference, ICML 2018](https://arxiv.org/abs/1805.11183)
 * KIVI - [Kernel Implicit Variational Inference, ICLR 2018](https://arxiv.org/abs/1705.10119)
 * CTF - [Continuous-Time Flows for Efficient Inference and Density Estimation ICML 2018](https://arxiv.org/abs/1709.01179)
-* CVB - [Coupled Variational Bayes via Optimization Embedding, NIPS 2018], CVB 70.1
+* CVB - [Coupled Variational Bayes via Optimization Embedding, NIPS 2018](http://papers.nips.cc/paper/8177-coupled-variational-bayes-via-optimization-embedding.pdf), CVB 84.0
 
 * UIVI - [Unbiased Implicit Variational Inference, Submitted AISTATS 2019](https://arxiv.org/abs/1808.02078), VAE 98.29, SIVI, 97.77, UIVI 94.09
 * DDNF - [Deep Diffeomorphic Normalizing Flows](https://arxiv.org/abs/1810.03256)
